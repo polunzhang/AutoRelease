@@ -1,0 +1,19 @@
+{
+  "name": "autorelease",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polunzhang/AutoRelease.git"
+  },
+  "author": "James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polunzhang/AutoRelease/issues"
+  },
+  "homepage": "https://github.com/polunzhang/AutoRelease#readme"
+}
